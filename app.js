@@ -4,7 +4,7 @@ const mongoose = require('mongoose')
 
 const PORT= process.env.PORT||5000;
 
-const url = "mongodb+srv://hari:hari@cluster0.7sfsb.mongodb.net/regDatabase?retryWrites=true&w=majority"
+const url = "mongodb+srv://hari:hari@cluster0.b0w2u.mongodb.net/MediaClub?retryWrites=true&w=majority"
 
 const app = express()
 
